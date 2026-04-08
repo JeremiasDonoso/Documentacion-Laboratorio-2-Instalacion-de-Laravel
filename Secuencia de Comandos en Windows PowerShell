@@ -1,5 +1,5 @@
 Luego de instalar todo lo requerido para utilizar Laravel pasé directamente a abrir Windows PowerShell y coloqué el comando:
-composer global require laravel/installer
+1 ▪ composer global require laravel/installer
 
 La instalación concluyó con un mensaje en color Amarillo (Imagen Advertencia Zip) y un mensaje en color Rojo (Imagen Error Git).
 La advertencia en amarillo dice: "Failed to download laravel/installer from dist: The zip extension and unzip/7z commands are both missing, skipping.
@@ -15,3 +15,10 @@ Visual Studio Code o más sencillo un Bloc de Notas. Al estar dentro del archivo
 El segundo error dice:  "git was not found in your PATH, skipping source download". Este sucede debido a que no se tiene instalado Git, por 
 lo que no logra completar con éxito la instalación de Laravel y termina el proceso allí mismo. Todo esto se puede evitar al solucionar el primer error, 
 pero en caso de no encontrar el ZIP se deberá descargar Git y volver a intentar.
+
+
+2 ▪ cd C:\xampp\htdocs
+Este comando fue utilizado para cambiar de directorio. Es importante que las carpetas de Laravel se generen aquí debido a que Apache solo puede ver los proyectos
+que se encuentren en esa ruta. 
+
+3 ▪ 
