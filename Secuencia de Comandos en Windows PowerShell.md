@@ -17,13 +17,12 @@ Visual Studio Code o más sencillo un Bloc de Notas. Al estar dentro del archivo
 
 ## ❌ Error 1
 
-```bash
-git was not found in your PATH, skipping source download
-```
+[![Error 1](https://github.com/JeremiasDonoso/Documentacion-Laboratorio-2-Instalacion-de-Laravel/blob/main/Error%201%20Img.png)](https://github.com/JeremiasDonoso/Documentacion-Laboratorio-2-Instalacion-de-Laravel/blob/main/Error%201%20Img.png)
+
 Este sucede debido a que no se tiene instalado Git, por 
 lo que no logra completar con éxito la instalación de Laravel y termina el proceso allí mismo. Todo esto se puede evitar al solucionar el primer error, 
 pero en caso de no encontrar el ZIP se deberá descargar Git y volver a intentar.
-
+### -
 ## ![Comando cd](https://img.shields.io/badge/2.-cd%20C%3A%5Cxampp%5Chtdocs-6c757d?style=for-the-badge&logo=code&logoColor=white)
 
 Este comando fue utilizado para cambiar de directorio. Es importante que las carpetas de Laravel se generen aquí debido a que Apache solo puede ver los proyectos
