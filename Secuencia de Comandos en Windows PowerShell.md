@@ -6,7 +6,7 @@ La instalación concluyó con dos mensajes, uno en amarillo como si fuera advert
 
 ## ⚠️ Advertencia 1
 
-[![Advertencia 1](https://raw.githubusercontent.com/JeremiasDonoso/Documentacion-Laboratorio-2-Instalacion-de-Laravel/main/Advertencia%201%20Img.png)](https://raw.githubusercontent.com/JeremiasDonoso/Documentacion-Laboratorio-2-Instalacion-de-Laravel/main/Advertencia%201%20Img.png)
+[![Advertencia 1](https://github.com/JeremiasDonoso/Documentacion-Laboratorio-2-Instalacion-de-Laravel/blob/main/Advertencia%201%20Img.png)](https://github.com/JeremiasDonoso/Documentacion-Laboratorio-2-Instalacion-de-Laravel/blob/main/Advertencia%201%20Img.png)
 
 Este problema sucede debido a que la extensión ZIP no ha sido habilitada para PHP, por lo que este no es capaz de descomprimir los archivos necesarios para
 la instalación de Laravel. Al darse cuenta que no puede proceder de esta forma, manda la advertencia y busca una alternativa, en este caso intenta descargar
