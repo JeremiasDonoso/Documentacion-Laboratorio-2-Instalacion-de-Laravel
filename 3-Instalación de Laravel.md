@@ -22,12 +22,15 @@ Visual Studio Code o más sencillo un Bloc de Notas. Al estar dentro del archivo
 Este sucede debido a que no se tiene instalado Git, por 
 lo que no logra completar con éxito la instalación de Laravel y termina el proceso allí mismo. Todo esto se puede evitar al solucionar el primer error, 
 pero en caso de no encontrar el ZIP se deberá descargar Git y volver a intentar.
-### -
+
+--- 
+
 ## ![Paso 2](https://img.shields.io/badge/2.-cd%20C%3A%5Cxampp%5Chtdocs-6c757d?style=for-the-badge&logo=code&logoColor=white)
 
 Este comando fue utilizado para cambiar de directorio. Es importante que las carpetas de Laravel se generen aquí debido a que Apache solo puede ver los proyectos
 que se encuentren en esa ruta. 
-### -
+
+---
 
 ## ![Paso 3](https://img.shields.io/badge/3.-laravel%20new%20prueba1-6c757d?style=for-the-badge&logo=code&logoColor=white) 
 
@@ -62,19 +65,19 @@ Necesario para crear las tablas básicas de la nueva base de datos, por eso se d
 
 En mi caso no tenía activada la base de datos al momento de intentar la migración, por lo que saltó el error. La solución era simplemente encender la base de datos y volver a intentar migrar.
 
-### -
+---
 
 ## ![Paso 4](https://img.shields.io/badge/4.-cd%20C%3A%5Cxampp%5Chtdocs%5Cprueba1-6c757d?style=for-the-badge&logo=code&logoColor=white)
 
 Como falló la migración, no se crearon las tablas necesarias para el uso de la base de datos, por lo que es necesario seleccionar la carpeta para manualmente hacer este proceso.
 
-### -
+---
 
 ## ![Paso 5](https://img.shields.io/badge/5.-php%20artisan%20migrate-6c757d?style=for-the-badge&logo=code&logoColor=white)
 
 Ahora sí se realiza correctamente el proceso de migración.
 
-### -
+---
 
 ## ![Paso 6](https://img.shields.io/badge/6.-php%20artisan%20serve-6c757d?style=for-the-badge&logo=code&logoColor=white)
 
@@ -82,19 +85,19 @@ Para verificar que el servidor ahora funciona correctamente. Esto es lo que debe
 
 ![comando serve](img/php%20artisan%20serve.png)
 
-### -
+---
 
 ## ![Paso 7](https://img.shields.io/badge/7.-composer%20require%20laravel%2Fui-6c757d?style=for-the-badge&logo=code&logoColor=white)
 
 Luego de comprobar que todo funciona, este comando se utiliza para instalar el paquete Laravel UI. Este servirá para aplicar una autenticación básica.
 
-### -
+---
 
 ## ![Paso 8](https://img.shields.io/badge/8.-php%20artisan%20ui%20bootstrap%20--auth-6c757d?style=for-the-badge&logo=code&logoColor=white)
 
 Permite la instalación del bootstrap y crea el sistema de registro e inicio de sesión.
 
-### -
+---
 
 ## ![Paso 9](https://img.shields.io/badge/9.-npm%20install-6c757d?style=for-the-badge)
 
@@ -109,17 +112,34 @@ Sucede porque PowerShell bloquea comandos npm por seguridad. La solución más d
 
 Luego de ejecutar el comando se debe colocar "Y" para aceptar el cambio. Después se debe reiniciar PowerShell y volver a abrirlo. Una alternativa a esto es simplemente usar cmd. 
 
-### -
+---
 
 ## ![Paso 10](https://img.shields.io/badge/10.-npm%20run%20dev-6c757d?style=for-the-badge)
 
 Usado junto con el comando anterior para compilar el frontend, de forma que se vea ordenado y sea usable por el usuario.
 
-### -
+---
 
 ## Laravel Instalado
 
 Laravel se ha instalado y se puede utilizar. Sin embargo, al combinar "php artisan serve" y "npm run dev", se genera una nueva vista que no parece terminada. Se puede acceder a la ventana de Inicio de Sesión e incluso es posible crear un usuario y simular un inicio de sesión, pero a partir de aquí la interfaz se pierde. Así se ve al momento de intentar acceder por primera vez: 
 
 ![Muestra Laravel](img/MuestraLaravel.png)
+
+---
+<div align="center">
+
+### 📌 Información del Laboratorio
+
+🎓 **Universidad Tecnológica de Panamá**
+
+👤 **Estudiante:** Jeremias Donoso  •  📧 **Correo:** jeremias.donoso@utp.ac.pa
+
+📚 **Curso:** Desarrollo de Software 7   •   👩‍🏫 **Instructora:** Irina Fong
+
+📅 **Fecha Final de Ejecución:** 14 de abril de 2026  
+
+---
+
+</div>
 
