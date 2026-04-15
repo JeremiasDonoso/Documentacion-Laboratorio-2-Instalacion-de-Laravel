@@ -57,6 +57,15 @@
 ▪ Sistema Operativo Windows 11
 
 ---
+
+<div align="center">
+  
+[![⬅️ Anterior](https://img.shields.io/badge/⬅️%20Anterior-6c757d?style=for-the-badge)](1-Documentaci%C3%B3n%20Laravel.md)
+[![Siguiente ➡️](https://img.shields.io/badge/Siguiente%20➡️-28a745?style=for-the-badge)](3-Instalaci%C3%B3n%20de%20Laravel.md)
+
+</div>
+
+---
 <div align="center">
 
 ### 📌 Información del Laboratorio
