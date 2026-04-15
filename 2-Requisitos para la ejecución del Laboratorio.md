@@ -55,3 +55,20 @@
 ▪ Editor de Código Visual Studio Code versión 1.115.0
 
 ▪ Sistema Operativo Windows 11
+
+---
+<div align="center">
+
+### 📌 Información del Laboratorio
+
+🎓 **Universidad Tecnológica de Panamá**
+
+👤 **Estudiante:** Jeremias Donoso  •  📧 **Correo:** jeremias.donoso@utp.ac.pa
+
+📚 **Curso:** Desarrollo de Software 7   •   👩‍🏫 **Instructora:** Irina Fong
+
+📅 **Fecha Final de Ejecución:** 14 de abril de 2026  
+
+---
+
+</div>
