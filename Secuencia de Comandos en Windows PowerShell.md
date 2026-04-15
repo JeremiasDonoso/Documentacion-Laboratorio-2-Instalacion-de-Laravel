@@ -32,27 +32,27 @@ que se encuentren en esa ruta.
 ## ![Paso 3](https://img.shields.io/badge/3.-laravel%20new%20prueba1-6c757d?style=for-the-badge&logo=code&logoColor=white) 
 
 Comando utilizado para crear la primera aplicación Laravel. La primera vez que se utilice saldrán las siguientes preguntas:
-## 1
+## Pregunta 1
 ![Pregunta 1](img/Pregunta%201%20Laravel.png)
 
 La respuesta NONE fue elegida para utilizar el Laravel básico, sin frontend adicional.
 
-## 2
+## Pregunta 2
 ![Pregunta 2](img/Pregunta%202%20Laravel.png)
 
 La herramienta de probado PHPUNIT es la oficial y más usada.
 
-## 3
+## Pregunta 3
 ![Pregunta 3](img/Pregunta%203%20Laravel.png)
 
 No veo necesario el uso de IA.
 
-## 4
+## Pregunta 4
 ![Pregunta 4](img/Pregunta%204%20Laravel.png)
 
 Estoy usando la base de datos MYSQL, así que esa elegí.
 
-## 5
+## Pregunta 5
 ![Pregunta 5](img/Pregunta%205%20Laravel.png)
 
 Necesario para crear las tablas básicas de la nueva base de datos, por eso se debe aceptar.
@@ -78,5 +78,48 @@ Ahora sí se realiza correctamente el proceso de migración.
 
 ## ![Paso 6](https://img.shields.io/badge/6.-php%20artisan%20serve-6c757d?style=for-the-badge&logo=code&logoColor=white)
 
-Para verificar que el servidor ahora funciona correctamente. Esto es lo que debería de salir:
+Para verificar que el servidor ahora funciona correctamente. Esto es lo que debería de salir en la dirección (http://127.0.0.1:8000):
+
+![comando serve](img/php%20artisan%20serve.png)
+
+### -
+
+## ![Paso 7](https://img.shields.io/badge/7.-composer%20require%20laravel%2Fui-6c757d?style=for-the-badge&logo=code&logoColor=white)
+
+Luego de comprobar que todo funciona, este comando se utiliza para instalar el paquete Laravel UI. Este servirá para aplicar una autenticación básica.
+
+### -
+
+## ![Paso 8](https://img.shields.io/badge/8.-php%20artisan%20ui%20bootstrap%20--auth-6c757d?style=for-the-badge&logo=code&logoColor=white)
+
+Permite la instalación del bootstrap y crea el sistema de registro e inicio de sesión.
+
+### -
+
+## ![Paso 9](https://img.shields.io/badge/9.-npm%20install-6c757d?style=for-the-badge)
+
+Necesario para instalar dependencias que ayudan a la visualización del sistema de inicio de sesión.
+
+## ❌ Error 3
+![Error 3](img/Error%203%20Laravel.png)
+
+Sucede porque PowerShell bloquea comandos npm por seguridad. La solución más directa es abrir PowerShell como administrador y utilizar el comando:
+
+![PowerShell](https://img.shields.io/badge/Set--ExecutionPolicy%20RemoteSigned-6c757d?style=for-the-badge&logo=powershell&logoColor=white)
+
+Luego de ejecutar el comando se debe colocar "Y" para aceptar el cambio. Después se debe reiniciar PowerShell y volver a abrirlo. Una alternativa a esto es simplemente usar cmd. 
+
+### -
+
+## ![Paso 10](https://img.shields.io/badge/10.-npm%20run%20dev-6c757d?style=for-the-badge)
+
+Usado junto con el comando anterior para compilar el frontend, de forma que se vea ordenado y sea usable por el usuario.
+
+### -
+
+## Laravel Instalado
+
+Laravel se ha instalado y se puede utilizar. Sin embargo, al combinar "php artisan serve" y "npm run dev", se genera una nueva vista que no parece terminada. Se puede acceder a la ventana de Inicio de Sesión e incluso es posible crear un usuario y simular un inicio de sesión, pero a partir de aquí la interfaz se pierde. Así se ve al momento de intentar acceder por primera vez: 
+
+![Muestra Laravel](img/MuestraLaravel.png)
 
