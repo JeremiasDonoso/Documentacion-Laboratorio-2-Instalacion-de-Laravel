@@ -4,6 +4,14 @@ https://laracasts.com/discuss/channels/php/errors-installing-laravel-under-php-8
 https://dev.to/suleman/log-in-registration-with-laravelui-in-laravel-5ddk
 
 ---
+
+<div align="center">
+  
+[![⬅️ Anterior](https://img.shields.io/badge/⬅️%20Anterior-6c757d?style=for-the-badge)](4-Uso%20de%20Interfaz.md)
+
+</div>
+
+---
 <div align="center">
 
 ### 📌 Información del Laboratorio
