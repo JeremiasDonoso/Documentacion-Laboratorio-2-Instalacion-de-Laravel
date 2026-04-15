@@ -130,7 +130,7 @@ Laravel se ha instalado y se puede utilizar. Sin embargo, al combinar "php artis
 
 <div align="center">
   
-[![⬅️ Anterior](https://img.shields.io/badge/⬅️%20Anterior-6c757d?style=for-the-badge)]()
+[![⬅️ Anterior](https://img.shields.io/badge/⬅️%20Anterior-6c757d?style=for-the-badge)](2-Requisitos%20para%20la%20ejecuci%C3%B3n%20del%20Laboratorio.md)
 [![Siguiente ➡️](https://img.shields.io/badge/Siguiente%20➡️-28a745?style=for-the-badge)](4-Uso%20de%20Interfaz.md)
 
 </div>
