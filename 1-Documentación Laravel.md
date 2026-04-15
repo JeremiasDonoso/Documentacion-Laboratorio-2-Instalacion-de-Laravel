@@ -3,11 +3,11 @@ En este repositorio se estará documentando el Laboratorio #2 de la asignatura D
 
 ---
 
-<p align="center">
+<div align="center">
 
 [![Siguiente ➡️](https://img.shields.io/badge/Siguiente%20➡️-28a745?style=for-the-badge)](2-Requisitos%20para%20la%20ejecuci%C3%B3n%20del%20Laboratorio.md)
 
-</p>
+</div>
 
 ---
 <div align="center">
