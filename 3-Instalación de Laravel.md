@@ -127,6 +127,15 @@ Laravel se ha instalado y se puede utilizar. Sin embargo, al combinar "php artis
 ![Muestra Laravel](img/MuestraLaravel.png)
 
 ---
+
+<div align="center">
+  
+[![⬅️ Anterior](https://img.shields.io/badge/⬅️%20Anterior-6c757d?style=for-the-badge)]()
+[![Siguiente ➡️](https://img.shields.io/badge/Siguiente%20➡️-28a745?style=for-the-badge)](4-Uso%20de%20Interfaz.md)
+
+</div>
+
+---
 <div align="center">
 
 ### 📌 Información del Laboratorio
