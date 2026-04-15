@@ -1,4 +1,4 @@
-Luego de instalar todo [lo requerido](2-Requisitos%20para%20la%20ejecuci%C3%B3n%20del%Laboratorio.md) para utilizar Laravel pasé directamente a abrir Windows PowerShell y coloqué el comando:
+Luego de instalar todo [lo requerido](2-Requisitos%20para%20la%20ejecuci%C3%B3n%20del%20Laboratorio.md) para utilizar Laravel pasé directamente a abrir Windows PowerShell y coloqué el comando:
 
 ## ![Paso 1](https://img.shields.io/badge/1.-composer%20global%20require%20laravel%2Finstaller-6c757d?style=for-the-badge&logo=code&logoColor=white)
 
