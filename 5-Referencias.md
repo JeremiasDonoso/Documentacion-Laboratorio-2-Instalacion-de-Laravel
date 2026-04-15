@@ -6,6 +6,8 @@ https://laracasts.com/discuss/channels/php/errors-installing-laravel-under-php-8
 
 https://dev.to/suleman/log-in-registration-with-laravelui-in-laravel-5ddk
 
+https://www.youtube.com/watch?v=Agx4xITyYgQ
+
 ---
 
 <div align="center">
