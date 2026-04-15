@@ -45,6 +45,15 @@ Para los casos en donde hay equivocación en los datos de inicio de sesión, est
 ![Inicio Sesion Fallido](img/InicioSesionFallido.png)
 
 ---
+
+<div align="center">
+  
+[![⬅️ Anterior](https://img.shields.io/badge/⬅️%20Anterior-6c757d?style=for-the-badge)](3-Instalaci%C3%B3n%20de%20Laravel.md)
+[![Siguiente ➡️](https://img.shields.io/badge/Siguiente%20➡️-28a745?style=for-the-badge)](5-Referencias.md)
+
+</div>
+
+---
 <div align="center">
 
 ### 📌 Información del Laboratorio
